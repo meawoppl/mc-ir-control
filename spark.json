@@ -1,0 +1,7 @@
+{
+  "name": "mc-ir-control",
+  "author": "Matthew Goodman <meawoppl@gmail.com>",
+  "license": "CC 3.0 SA",
+  "version": "0.0.1",
+  "description": "A port of the Auduino multi-camera IR control system originally by Sebastian Setz"
+}
